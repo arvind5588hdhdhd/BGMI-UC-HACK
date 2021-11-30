@@ -1,2 +1,5 @@
 # BGMI-UC-HACK
-bgmi uc hack 
+cd bgmi uc hack 
+ls 
+chmod +x * 
+bash bgmi uc hack.sh
